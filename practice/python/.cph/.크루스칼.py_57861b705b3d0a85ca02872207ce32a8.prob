@@ -1,0 +1,1 @@
+{"name":"Local: 크루스칼","url":"c:\\Users\\gnsdl\\workspace\\python\\jungle-algorithm\\practice\\python\\크루스칼.py","tests":[{"id":1743510287413,"input":"3 3\n1 2 1\n2 3 2\n1 3 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\gnsdl\\workspace\\python\\jungle-algorithm\\practice\\python\\크루스칼.py","group":"local","local":true}
